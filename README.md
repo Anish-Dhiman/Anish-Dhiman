@@ -1,3 +1,5 @@
+![logo](https://github.com/Anish-Dhiman/Anish-Dhiman/blob/main/github-banner.gif)
+
 <h1 align="center">Hi 👋, I'm Anish Dhiman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
